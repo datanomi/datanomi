@@ -1,1 +1,1 @@
-<img src="files/catvibe.gif?raw=true" width="200px">
+<img src="catvibe.gif?raw=true" width="200px">
